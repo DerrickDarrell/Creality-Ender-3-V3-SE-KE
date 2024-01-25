@@ -10,7 +10,7 @@ I have made two versions of this mod. One for MGN9H rails and MGN12H rails. I re
 
 For those installing the rails in the SE, you might need to print the alternate rail adapter. The main plate could hit the rear post before activating the endstop switch.
 
-If you like my work consider [buying me a coffee](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
+If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
 Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
