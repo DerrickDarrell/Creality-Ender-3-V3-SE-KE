@@ -1,4 +1,4 @@
-#  Ender 3 V3 SE & KE Y Rails Conversion
+#  SE & KE Y Rails Conversion
 ![20231225_1958141](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/19c17aea-6d5a-4a31-b0b7-f6f75f979cae)
 
 
