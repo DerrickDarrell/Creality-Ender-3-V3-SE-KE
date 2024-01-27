@@ -82,4 +82,4 @@ Installation is not too complicated. You might need to remove the bottom panel t
 
 
 
-All my work is protected under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license
+## All my work is protected under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license
