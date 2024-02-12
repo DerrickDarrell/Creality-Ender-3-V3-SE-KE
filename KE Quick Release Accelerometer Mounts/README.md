@@ -24,10 +24,6 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 - x2 - M3x10-12mm Screws (accelerometer)
 - Use the two original screws from the toolhead for the bed mount (M3x6mm FHCS)
 
-![20231217_125802](https://github.com/DerrickDarrell/Creality-Ender-3-V3-SE-KE/assets/145330457/ffee883e-39da-4570-8f66-6f209a090c60)
-![20231217_125836](https://github.com/DerrickDarrell/Creality-Ender-3-V3-SE-KE/assets/145330457/03340de9-ded1-4db5-8f4c-b9ea17f916d7)
-
-
 # PRINT SETTINGS
 - 0.2 layer height
 - 0.4 line width
@@ -35,6 +31,13 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 - 3 top/bottom
 - 15-20% infill
 - No supports needed
+
+
+![20231217_125802](https://github.com/DerrickDarrell/Creality-Ender-3-V3-SE-KE/assets/145330457/ffee883e-39da-4570-8f66-6f209a090c60)
+![20231217_125836](https://github.com/DerrickDarrell/Creality-Ender-3-V3-SE-KE/assets/145330457/03340de9-ded1-4db5-8f4c-b9ea17f916d7)
+
+
+
 
 
 
