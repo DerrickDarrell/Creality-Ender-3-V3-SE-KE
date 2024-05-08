@@ -6,7 +6,6 @@
 
 The Ender 3 V3 SE & KE are great machines but the bed is a problem in my opinion.. specially in the KE when it is capable of printing at up to 500mm/s. The factory bed has a lot of play and flex. From the front post, to the linear bearing housings, and the bed frame, it all adds up.
 
-I have made two versions of this mod. One for MGN9H rails and MGN12H rails. I recommend using MGN12H.. but its up to you. 
 
 For those installing the rails in the SE, you will need to print the alternate rail adapter. The main plate could hit the rear post before activating the endstop switch.
 
@@ -34,7 +33,6 @@ Can use either BHCS or SHCS screws unless specified
 - x2 - M3x14mm screws (front mount - stepper)
 - x2 - M3x20mm screws (front mount - stepper)
 - x16 - M3x8mm SHCS screws (Linear Rails - If using MGN12H)
-- x20 - M3x10mm SHCS screws (Linear Rails - If using MGN9H)
 - x4 - M4x20mm screws (rear mount - ONLY USE 20MM SCREWS)
 - X8 - M3x6mm BHCS screws (rail carriage)
 - x6 - M3x8mm BHCS screws (bed frame)
