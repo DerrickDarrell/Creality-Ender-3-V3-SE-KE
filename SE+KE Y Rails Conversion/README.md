@@ -32,7 +32,7 @@ Can use either BHCS or SHCS screws unless specified
 - M3x3x5mm heat inserts
 - x2 - M3x14mm screws (front mount - stepper)
 - x2 - M3x20mm screws (front mount - stepper)
-- x16 - M3x8mm SHCS screws (Linear Rails - If using MGN12H)
+- x16 - M3x8mm SHCS screws (Linear Rails)
 - x4 - M4x20mm screws (rear mount - ONLY USE 20MM SCREWS)
 - X8 - M3x6mm BHCS screws (rail carriage)
 - x6 - M3x8mm BHCS screws (bed frame)
