@@ -7,9 +7,7 @@
 The Ender 3 V3 SE & KE are great machines but the bed is a problem in my opinion.. specially in the KE when it is capable of printing at up to 500mm/s. The factory bed has a lot of play and flex. From the front post, to the linear bearing housings, and the bed frame, it all adds up.
 
 
-For those installing the rails in the SE, you will need to print the alternate rail adapter. The main plate could hit the rear post before activating the endstop switch.
 
-You will not lose any Z travel with this mod.
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
