@@ -26,7 +26,8 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 ## USEFUL LINKS
 [D3vil Design Team Discord](https://discord.gg/d3vil-design)
 
-![k1_webcam_for_ke_mount-2024-01](https://github.com/DerrickDarrell/Creality-Ender-3-V3-SE-KE/assets/145330457/6fa033e5-dc41-4b39-9685-c85052b015cf)
+![beacon probe for KE-2024-05-10 112846](https://github.com/DerrickDarrell/Creality-Ender-3-V3-SE-KE/assets/145330457/2fe0900d-5f47-4893-b5fd-15f1aaf97d00)
+
 
 ![k1_webcam_for_ke_mount-2024-01-09_125757](https://github.com/DerrickDarrell/Creality-Ender-3-V3-SE-KE/assets/145330457/6718d637-de3d-428e-9a01-1fd17462701f)
 
