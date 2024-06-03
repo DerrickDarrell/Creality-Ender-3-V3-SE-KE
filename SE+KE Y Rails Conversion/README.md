@@ -26,7 +26,7 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 ## BOM
 Can use either BHCS or SHCS screws unless specified
 
-- MGN9H or MGN12H rails (300mm length - I used cheap Amazon rails and work fine)
+- MGN12H rails (300mm length - I used cheap Amazon rails and work fine)
 - M3x3x5mm heat inserts
 - x2 - M3x14mm screws (front mount - stepper)
 - x2 - M3x20mm screws (front mount - stepper)
