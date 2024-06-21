@@ -11,8 +11,6 @@ The Ender 3 V3 SE & KE are great machines but the bed is a problem in my opinion
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-Also consider joining our [Discord](https://discord.gg/d3vil-design)
-
 
 
 ## IMPORTANT
@@ -50,8 +48,6 @@ Can use either BHCS or SHCS screws unless specified
 
 
 ## USEFUL LINKS
-
-[D3vil Design Team Discord](https://discord.gg/d3vil-design)
 
 [How to use heat inserts](https://ultimaker.com/learn/how-to-use-heat-set-inserts-to-securely-fasten-3d-printed-parts/)
 
