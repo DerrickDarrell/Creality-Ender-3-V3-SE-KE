@@ -7,7 +7,6 @@ Simple mount for a Beacon or Cartographer 3D probe. Must be used with a right an
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 
 ## BOM
@@ -24,7 +23,6 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 
 ## USEFUL LINKS
-[D3vil Design Team Discord](https://discord.gg/d3vil-design)
 
 ![beacon probe for KE-2024-05-10 112846](https://github.com/DerrickDarrell/Creality-Ender-3-V3-SE-KE/assets/145330457/2fe0900d-5f47-4893-b5fd-15f1aaf97d00)
 
