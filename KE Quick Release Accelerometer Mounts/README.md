@@ -6,6 +6,8 @@ Quick release mounts for the Creality and Fysetc accelerometers.
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
+Also join my [Discord](http://discord.gg/novusterminus)
+
 
 # BOM - Fysetc
 - x2 - M3x8mm FHCS Screws (toolhead mount)
